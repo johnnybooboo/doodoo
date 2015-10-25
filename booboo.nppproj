@@ -1,0 +1,66 @@
+<project author="darkbull" blog="http://darkbull.net">
+  <node name="booboo" isDir="True" isExpand="True">
+    <node name=".git" isDir="True" isExpand="False">
+      <node name="hooks" isDir="True" isExpand="False">
+        <node name="applypatch-msg.sample" isDir="False" isExpand="False" />
+        <node name="commit-msg.sample" isDir="False" isExpand="False" />
+        <node name="post-update.sample" isDir="False" isExpand="False" />
+        <node name="pre-applypatch.sample" isDir="False" isExpand="False" />
+        <node name="pre-commit.sample" isDir="False" isExpand="False" />
+        <node name="prepare-commit-msg.sample" isDir="False" isExpand="False" />
+        <node name="pre-push.sample" isDir="False" isExpand="False" />
+        <node name="pre-rebase.sample" isDir="False" isExpand="False" />
+        <node name="update.sample" isDir="False" isExpand="False" />
+      </node>
+      <node name="info" isDir="True" isExpand="False">
+        <node name="exclude" isDir="False" isExpand="False" />
+      </node>
+      <node name="logs" isDir="True" isExpand="False">
+        <node name="refs" isDir="True" isExpand="False">
+          <node name="heads" isDir="True" isExpand="False">
+            <node name="master" isDir="False" isExpand="False" />
+          </node>
+          <node name="remotes" isDir="True" isExpand="False">
+            <node name="origin" isDir="True" isExpand="False">
+              <node name="master" isDir="False" isExpand="False" />
+            </node>
+          </node>
+        </node>
+        <node name="HEAD" isDir="False" isExpand="False" />
+      </node>
+      <node name="objects" isDir="True" isExpand="False">
+        <node name="3b" isDir="True" isExpand="False">
+          <node name="f00af46578275aa7f8e53f46c71d5e10a165e9" isDir="False" isExpand="False" />
+        </node>
+        <node name="e6" isDir="True" isExpand="False">
+          <node name="9de29bb2d1d6434b8b29ae775ad8c2e48c5391" isDir="False" isExpand="False" />
+        </node>
+        <node name="f9" isDir="True" isExpand="False">
+          <node name="90f35605b90c3732367496a73255089334c202" isDir="False" isExpand="False" />
+        </node>
+        <node name="info" isDir="True" isExpand="False" />
+        <node name="pack" isDir="True" isExpand="False" />
+      </node>
+      <node name="refs" isDir="True" isExpand="False">
+        <node name="heads" isDir="True" isExpand="False">
+          <node name="master" isDir="False" isExpand="False" />
+        </node>
+        <node name="remotes" isDir="True" isExpand="False">
+          <node name="origin" isDir="True" isExpand="False">
+            <node name="master" isDir="False" isExpand="False" />
+          </node>
+        </node>
+        <node name="tags" isDir="True" isExpand="False" />
+      </node>
+      <node name="COMMIT_EDITMSG" isDir="False" isExpand="False" />
+      <node name="config" isDir="False" isExpand="False" />
+      <node name="description" isDir="False" isExpand="False" />
+      <node name="HEAD" isDir="False" isExpand="False" />
+      <node name="index" isDir="False" isExpand="False" />
+    </node>
+    <node name="include" isDir="True" isExpand="True">
+      <node name="penis.php" isDir="False" isExpand="False" />
+    </node>
+    <node name="fzzzz.txt" isDir="False" isExpand="False" />
+  </node>
+</project>
