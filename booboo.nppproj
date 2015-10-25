@@ -1,6 +1,6 @@
 <project author="darkbull" blog="http://darkbull.net">
   <node name="booboo" isDir="True" isExpand="True">
-    <node name=".git" isDir="True" isExpand="False">
+    <node name=".git" isDir="True" isExpand="True">
       <node name="hooks" isDir="True" isExpand="False">
         <node name="applypatch-msg.sample" isDir="False" isExpand="False" />
         <node name="commit-msg.sample" isDir="False" isExpand="False" />
@@ -15,13 +15,13 @@
       <node name="info" isDir="True" isExpand="False">
         <node name="exclude" isDir="False" isExpand="False" />
       </node>
-      <node name="logs" isDir="True" isExpand="False">
-        <node name="refs" isDir="True" isExpand="False">
+      <node name="logs" isDir="True" isExpand="True">
+        <node name="refs" isDir="True" isExpand="True">
           <node name="heads" isDir="True" isExpand="False">
             <node name="master" isDir="False" isExpand="False" />
           </node>
-          <node name="remotes" isDir="True" isExpand="False">
-            <node name="origin" isDir="True" isExpand="False">
+          <node name="remotes" isDir="True" isExpand="True">
+            <node name="origin" isDir="True" isExpand="True">
               <node name="master" isDir="False" isExpand="False" />
             </node>
           </node>
